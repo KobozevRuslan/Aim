@@ -1,0 +1,7 @@
+export const Decimal = '#666666'
+export const DarkOrchid = '#2FA2C3'
+export const Nobel = '#999999'
+export const ModerateCyan = '#36A2C1'
+export const White = '#FFFFFF'
+export const Green = '#00b300'
+export const Red = '#ff0000'
