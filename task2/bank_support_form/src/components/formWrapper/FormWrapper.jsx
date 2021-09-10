@@ -37,7 +37,7 @@ const FormWrapper = ({
                     </div>
                   )
                 })}
-                <button type='submit' disabled={!(formik.isValid && formik.dirty)}>
+                <button type='submit'>
                   {buttonName}
                 </button>
                 <div className='item_info'>

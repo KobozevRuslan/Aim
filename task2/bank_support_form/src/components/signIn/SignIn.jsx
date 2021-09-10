@@ -15,7 +15,7 @@ const SignIn = ({ itemInfo ,link: { linkName, linkUrl }, buttonName, inputTypes:
       buttonSubmit={{
         buttonName,
         buttonHandler: values => {
-          console.log(values);
+          alert(JSON.stringify(values));
         },
       }}
     />
